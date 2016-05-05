@@ -1,2 +1,2 @@
 # poema-dos-numeros
-esse é o poema dos números
+esse é o repositório do poema dos números
