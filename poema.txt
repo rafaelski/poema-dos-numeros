@@ -2,7 +2,9 @@ poema dos números
 
 hum
 dois
+três
 quatro
+cinco
 seis
 sete
 oito deitado
