@@ -1,8 +1,11 @@
-poema dos números
+poema dos números e das letras
 
 hum
+ah
 dois
+bê
 três
+cê
 quatro
 cinco
 seis
